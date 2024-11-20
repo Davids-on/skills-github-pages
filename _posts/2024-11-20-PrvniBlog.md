@@ -1,6 +1,6 @@
 ---
 title: "První příspěvek přes GitHub Pages"
-date: 2024-20-11
+date: 2024-11-20
 ---
 ### Vítejte na mém blogu!  
 **Publikováno dne:** 20. listopadu 2024  
